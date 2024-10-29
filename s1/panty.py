@@ -1,5 +1,8 @@
+from src.p1 import P1
+
+
 def main():
-    print("Hello from s1!")
+    P1()
 
 
 if __name__ == "__main__":
