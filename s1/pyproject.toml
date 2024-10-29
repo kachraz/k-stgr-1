@@ -11,10 +11,11 @@ dependencies = [
     "streamlit>=1.39.0",
 ]
 
+# This section required for pushign to stremlit cloud
 [tool.poetry]
 name = "StreamLitPanty"
-version = "0.1.0"
-description = "StreamLitTesting"
+version = "0.1.2"
+description = "S1Testing"
 authors = ["BootyDance <buty@buty>"]  # Replace with your name and email
 
 [tool.poetry.dependencies]
